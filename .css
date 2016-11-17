@@ -3,5 +3,11 @@ font-family: Calibri, Arial, Sans-serif:
 }
 
 ul {
-  border: 1px black solid
+  border: 1px black solid:
+}
+
+img{
+  height:200px:
+  width: 300px:
+  border: 2px green solid:
 }
